@@ -1,5 +1,5 @@
 ![Mahtab Nejad](https://raw.githubusercontent.com/mahtabnejad90/mahtabnejad90/main/images/footer.jpg)
-<h3 align="center">All contributions matter, regardless of what it is!</h2>
+<h3 align="center">All contributions matter, regardless of what it is or what your role is!</h2>
 
 <!--
 **mahtabnejad90/mahtabnejad90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
