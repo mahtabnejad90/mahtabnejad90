@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/mahtabnejad90/mahtabnejad90/main/images/wavy.gif" width="30px"> Hello! I'm Mahtab <img src="https://raw.githubusercontent.com/mahtabnejad90/mahtabnejad90/main/images/wavy.gif" width="30px"></h1>
+<h1 align="center"> :penguin: Hello! I'm Mahtab :penguin:</h1>
 <h1 align="center"><img src="https://raw.githubusercontent.com/mahtabnejad90/mahtabnejad90/main/images/footer.jpg"></h1>
 <h3 align="center">All contributions matter, regardless of what it is or what your role is!</h3>
 <p align="center">SDET, COMPUTER SCIENCE MSC STUDENT, MENTAL HEALTH FIRST AIDER & WOMAN IN TECH!</p>
