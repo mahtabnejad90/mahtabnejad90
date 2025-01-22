@@ -1,19 +1,16 @@
 <h1 align="center"> :penguin: Hello! I'm Mahtab :penguin:</h1>
 
 <h3 align="center">All contributions matter, regardless of what it is or what your role is!</h3>
-<p align="center">LEAD SDET & WOMAN IN TECH!</p>
+<p align="center">LEAD SEIT & WOMAN IN TECH!</p>
 
-<!--
-**mahtabnejad90/mahtabnejad90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little bit about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently Lead Software Engineer in Test working at [Servita](https://servita.com)
+- 🌱 I’m currently learning Python and Chaos engineering
+- 💬 Ask me about a unified approach for test automation
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      - [LinkedIn](https://www.linkedin.com/in/mahtabnejad/)
+      - [X](https://mobile.x.com/mahtabnejad)
+      - [Medium Articles](https://medium.com/@mahtabnejad)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Penguins are my favorite animal
