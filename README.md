@@ -8,9 +8,13 @@ A little bit about me:
 - 🔭 I’m currently Lead Software Engineer in Test working at [Servita](https://servita.com)
 - 🌱 I’m currently learning Python and Chaos engineering
 - 💬 Ask me about a unified approach for test automation
-- 📫 How to reach me: ...
-      - [LinkedIn](https://www.linkedin.com/in/mahtabnejad/)
-      - [X](https://mobile.x.com/mahtabnejad)
-      - [Medium Articles](https://medium.com/@mahtabnejad)
+- 📫 How to reach me:
+  
+     [LinkedIn](https://www.linkedin.com/in/mahtabnejad/)
+
+     [X (Formerly Twitter)](https://mobile.x.com/mahtabnejad)
+
+     [Medium](https://medium.com/@mahtabnejad)
+
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Penguins are my favorite animal
