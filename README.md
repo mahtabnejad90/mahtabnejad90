@@ -28,9 +28,9 @@
 
 ### A little bit about me:
 
-- 🔭 I’m currently Lead Software Engineer in Test working at [Servita](https://servita.com)
+- 🔭 I’m currently Software Automation Engineer working at [Servita](https://servita.com)
 - 🌱 I’m currently learning AI in Test Automation
-- 💬 Ask me about a unified approach for test automation
+- 💬 Ask me about a unified approach for Test Automation & Performance Engineering
 - 📫 How to reach me:
   
      [LinkedIn](https://www.linkedin.com/in/mahtabnejad/)
