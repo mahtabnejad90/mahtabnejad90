@@ -1,7 +1,7 @@
 <h1 align="center"> :penguin: Hello! I'm Mahtab :penguin:</h1>
 
 <h3 align="center">All contributions matter, regardless of what it is or what your role is!</h3>
-<p align="center">SOFTWARE ENGINEER IN TEST & WOMAN IN TECH!</p>
+<p align="center">SOFTWARE AUTOMATION ENGINEER & WOMAN IN TECH!</p>
 
 <div align="center">
   <!-- Testing & Automation -->
