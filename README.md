@@ -28,7 +28,7 @@
 
 ### A little bit about me:
 
-- 🔭 I’m currently Software Automation Engineer working at [Servita](https://servita.com)
+- 🔭 I’m currently Software Automation Engineer working at [Superhuman](http://superhuman.com)
 - 🌱 I’m currently learning AI in Automation Engineering
 - 💬 Ask me about a unified approach for Automation & Performance Engineering
 - 📫 How to reach me:
